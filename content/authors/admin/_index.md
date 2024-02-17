@@ -40,7 +40,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master's in Information Systems Manamenet
+    - course: Master's in Information Systems Management
       institution: Carnegie Mellon University
       year: 2024
     - course: Bachelor in Management Science, Minor in English Literature
