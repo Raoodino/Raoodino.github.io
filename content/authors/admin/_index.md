@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 饶家瑞
+title: Jeri Rao 饶家瑞
 
 # Name pronunciation (optional)
 name_pronunciation: ráo jiā ruì
@@ -18,7 +18,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Applying For 2025 Fall PHD Program
+role: Applying For 2025 Fall PHD Programs in US
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -48,7 +48,7 @@ education:
       year: 2022
     - course: Exchange Student
       institution: University of Manchester
-      year: 2021.1 - 2021.6
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
