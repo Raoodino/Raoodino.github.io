@@ -3,7 +3,7 @@
 title: Jeri Rao 饶家瑞
 
 # Name pronunciation (optional)
-name_pronunciation: ráo jiā ruì
+# name_pronunciation: ráo jiā ruì
 
 # Full name (for SEO)
 first_name: Jiarui
@@ -18,7 +18,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Applying For 2025 Fall PHD Programs in US
+role: Applying For 2025 Fall PHD Programs
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -74,19 +74,19 @@ skills:
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
+      - name: Classical Music
         description: ""
-        percent: 60
+        percent: 100
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: KPOP
         description: ""
         percent: 100
         icon: cat
         icon_pack: fas
       - name: Photography
         description: ""
-        percent: 80
+        percent: 100
         icon: camera-retro
         icon_pack: fas
 
