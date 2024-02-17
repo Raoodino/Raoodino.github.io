@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jeri Rao 饶家瑞
+title: 饶家瑞
 
 # Name pronunciation (optional)
-name_pronunciation: ‘’
+name_pronunciation: ráo jiā ruì
 
 # Full name (for SEO)
 first_name: Jiarui
@@ -18,7 +18,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student At Carnegie Mellon University
+role: Applying For 2025 Fall PHD Program
 
 # Organizations/Affiliations to show in About widget
 organizations:
