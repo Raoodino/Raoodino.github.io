@@ -123,16 +123,19 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jeriirao@outlook.com
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/pterosaurrrrao/
-    label: Follow me on Instagram
-    display:
-      header: true
-
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jiarui-rao-jrr/
+    label: Connect me on Linkedin
+    display:
+      header: true
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/pterosaurrrrao/
+
+  - icon: blogger
+    icon_pack: fab
+    link: https://www.xiaohongshu.com/user/profile/5bfd258d44363b07f24546e7
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
