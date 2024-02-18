@@ -76,7 +76,7 @@ skills:
         icon: robot
         icon_pack: fas
       - name: Blockchain Development & Deployment
-        description: "Ethereum, Solidity "
+        description: "Ethereum, Solidity"
         percent: 60
         icon: hive
         icon_pack: fas
@@ -89,7 +89,7 @@ skills:
         percent: 100
         icon: music
         icon_pack: fas
-       - name: Piano
+      - name: Piano
         description: "Since age 4"
         percent: 100
         icon: piano
@@ -99,8 +99,8 @@ skills:
         percent: 100
         icon: table-tennis-paddle-ball
         icon_pack: fas
-      - name: K-POP 
-        description: "IVE, STAYC, TXT, K-DRAMA "
+      - name: K-POP
+        description: "IVE, STAYC, TXT, K-DRAMA"
         percent: 100
         icon: fire
         icon_pack: fas
