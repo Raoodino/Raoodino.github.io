@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Teaching Assistant
-          company: Distributed Systems In ISM 
+          company: Distributed Systems In ISM
           company_url: "https://api.heinz.cmu.edu/courses_api/course_detail/95-702/"
           company_logo: org-gc
           location: CMU
@@ -76,7 +76,7 @@ sections:
           location: CMU
           date_start: "2023-09-01"
           date_end: "2023-12-11"
-       
+
     design:
       columns: "1"
   - block: experience
@@ -103,7 +103,7 @@ sections:
 
               * Developed a No-Code platform using Next.js
               * Implemented customized component design and seamless database interactions
-        - title: Software Engineer Intern 
+        - title: Software Engineer Intern
           company: Opera
           company_url: "https://www.opera.com/"
           company_logo: org-x
@@ -115,7 +115,7 @@ sections:
 
               * Optimized the game features of two game published on OperaGX using CocosEngine
               * Developed the web interfaces of game editor using Typescript and Vue.js
-         - title: Consultant Intern - Data Management
+        - title: Consultant Intern - Data Management
           company: IBM
           company_url: "https://www.ibm.com/consulting?utm_content=SRCWW&p1=Search&p4=43700050478421002&p5=e&gad_source=1&gclid=Cj0KCQiAz8GuBhCxARIsAOpzk8w0oMioiOh6n2LkMLjR4yF6n71ARmOzqeeai3T6_iAkFq6MEDgNd4EaAtMnEALw_wcB&gclsrc=aw.ds"
           company_logo: org-x
@@ -127,7 +127,7 @@ sections:
 
               * Conducted research on customer data integration, data standards and data security
               * Executed data management initiatives and data ETL operations
-         - title: Product Intern
+        - title: Product Intern
           company: Kuaishou Technology
           company_url: "https://www.kuaishou.com/en"
           company_logo: org-x
@@ -139,7 +139,7 @@ sections:
 
               * Led the operational management of a live-streaming ads platform
               * Formulated data-driven user growth strategy
-         - title: Consultant Intern - Global Business System Management
+        - title: Consultant Intern - Global Business System Management
           company: Volkswagen Group
           company_url: "https://volkswagengroupchina.com.cn/en/volkswagengroupchina"
           company_logo: org-x
