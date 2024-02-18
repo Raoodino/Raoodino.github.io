@@ -148,8 +148,8 @@ highlight_name: true
 ---
 
 <div style="font-family: 'Verdana', sans-serif; text-align: justify;">
-    <p>I am Jeri, a master student at CMU. My research interests include the intersection of information technology and education, innovation, public policy, healthcare.</p>
-    <p>The transition from aspiring software engineer to a researcher interested in AI and education was sparked by the integration of AI tools like ChatGPT in our coursework. This shift was further solidified by my role as a teaching assistant for core Information Systems courses, prompting me to delve deeper into the role of AI tools in education.</p>
+    <p>I am Jeri, a master student at CMU. I am interested in the intersection of information technology and education, digital economy, public policy, and healthcare.</p>
+    <p>The transition from aspiring software engineer to a researcher was sparked by the integration of AI tools like ChatGPT in our coursework. This shift was further solidified by my role as a teaching assistant for core Information Systems courses, prompting me to delve deeper into the role of AI tools in education and how computer science education impacts students from non-CS backgrounds.</p>
     <p>Currently, I am conducting research about Social Good and Learning Analytics at Heinz College.</p>
-    <p>My avatar was taken in December 2023 in Airport Mesa, Sedona, Arizona, by my friend <a href="https://stat.illinois.edu/directory/profile/cw80" style="text-decoration: none; color: blue;">Chenyang Wang</a></p>
+    <p>My avatar was taken in December 2023 in Airport Mesa, Sedona, Arizona, by my friend <a href="https://stat.illinois.edu/directory/profile/cw80" style="text-decoration: none; color: green;">Chenyang Wang</a></p>
 </div>
