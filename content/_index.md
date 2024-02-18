@@ -79,7 +79,7 @@ sections:
         - title: Teacher
           company: Teach For China
           company_url: "https://chinadevelopmentbrief.org/ngos/teach-for-china/"
-          # company_logo: org-gc
+          company_logo: mlzg
           location: China
           date_start: "2019-01-01"
           date_end: "2019-08-11"
@@ -126,7 +126,7 @@ sections:
         - title: Consultant Intern - Data Management
           company: IBM
           company_url: "https://www.ibm.com/consulting?utm_content=SRCWW&p1=Search&p4=43700050478421002&p5=e&gad_source=1&gclid=Cj0KCQiAz8GuBhCxARIsAOpzk8w0oMioiOh6n2LkMLjR4yF6n71ARmOzqeeai3T6_iAkFq6MEDgNd4EaAtMnEALw_wcB&gclsrc=aw.ds"
-          company_logo: ibm
+          company_logo: ibm_1
           location: Beijing, China
           date_start: "2022-03-01"
           date_end: "2022-06-01"
