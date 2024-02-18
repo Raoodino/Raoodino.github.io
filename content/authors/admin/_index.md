@@ -56,56 +56,61 @@ skills:
   - name: Technical
     items:
       - name: Data Analysis & Data Visualization
-        description: "python, pyspark, tableau, powerBI"
+        description: "Python, tableau, powerBI"
         percent: 100
         icon: python
         icon_pack: fab
       - name: Software Development & Software Design
-        description: ""
+        description: "Java, Javascript, Typescript, C#, React, Next"
         percent: 100
-        icon: chart-line
+        icon: uncharted
         icon_pack: fas
       - name: Quantitative Analysis & Econometrics
-        description: ""
-        percent: 40
-        icon: database
+        description: "R, Eviews, Stata"
+        percent: 80
+        icon: calculator
         icon_pack: fas
       - name: Machine Learning & AI
-        description: ""
-        percent: 40
-        icon: database
+        description: "PySpark, Hadoop, Tensorflow"
+        percent: 80
+        icon: robot
         icon_pack: fas
       - name: Blockchain Development & Deployment
-        description: ""
-        percent: 40
-        icon: database
+        description: "Ethereum, Solidity "
+        percent: 60
+        icon: hive
         icon_pack: fas
-  - name: Hobbies
+  - name: Non-Technical
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Classical Music
-        description: ""
+      - name: Classical Music Fan
+        description: "Rachmaninoff"
         percent: 100
         icon: music
         icon_pack: fas
+       - name: Piano
+        description: "Since age 4"
+        percent: 100
+        icon: piano
+        icon_pack: fas
       - name: PingPong
-        description: ""
+        description: "Since age 5"
         percent: 100
         icon: table-tennis-paddle-ball
         icon_pack: fas
-      - name: KPOP
-        description: ""
+      - name: K-POP 
+        description: "IVE, STAYC, TXT, K-DRAMA "
         percent: 100
         icon: fire
         icon_pack: fas
       - name: Photography
-        description: ""
+        description: "A little famous on Xiaohongshu Pittsburgh Region"
         percent: 100
         icon: camera-retro
         icon_pack: fas
       - name: Cooking
-        description: ""
+        description: "Chinese and Western fusion cuisine"
         percent: 100
         icon: kitchen-set
         icon_pack: fas
@@ -139,5 +144,5 @@ social:
 highlight_name: true
 ---
 
-Jeri is a master student at CMU Heinz College. Her research interests include AI and education, technology innovation, public policy, healthcare.
+I am Jeri, a master student at CMU. My research interests include the intersection of information technology and education, innovation, public policy, healthcare. Currently, I am conducting research about Social Good and Learning Analytics at Heinz College.
 {style="text-align: justify;"}
