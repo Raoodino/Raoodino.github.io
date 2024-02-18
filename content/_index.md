@@ -133,7 +133,7 @@ sections:
           company_logo: org-x
           location: Beijing, China
           date_start: "2021-10-16"
-          date_end: "2022-1-12"
+          date_end: "2022-01-12"
           description: |2-
               Responsibilities include:
 
