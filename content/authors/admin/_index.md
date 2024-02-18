@@ -133,7 +133,7 @@ social:
     icon_pack: fab
     link: https://www.instagram.com/pterosaurrrrao/
 
-  - icon: xiaoshongshu
+  - icon: xiaoshongshu.svg
     # icon_pack: fab
     link: https://www.xiaohongshu.com/user/profile/5bfd258d44363b07f24546e7
   # Link to a PDF of your resume/CV.
