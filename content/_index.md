@@ -65,17 +65,25 @@ sections:
         - title: Teaching Assistant
           company: Distributed Systems In ISM
           company_url: "https://api.heinz.cmu.edu/courses_api/course_detail/95-702/"
-          company_logo: org-gc
-          location: CMU
+          # company_logo: org-gc
+          location: Pittsburgh
           date_start: "2024-01-01"
           date_end: ""
         - title: Teaching Assistant
           company: Database Management
           company_url: "https://api.heinz.cmu.edu/courses_api/course_detail/95-703/"
-          company_logo: org-gc
-          location: CMU
+          # company_logo: org-gc
+          location: Pittsburgh
           date_start: "2023-09-01"
           date_end: "2023-12-11"
+        - title: Teacher
+          company: Teach For China
+          company_url: "https://chinadevelopmentbrief.org/ngos/teach-for-china/"
+          # company_logo: org-gc
+          location: China
+          date_start: "2019-01-01"
+          date_end: "2019-08-11"
+          description: Volunteer Teacher at middle schools in Guangdong and Qinghai Province, courses categories include quality development training, career planning, food nutrition and health, science.
 
     design:
       columns: "1"
@@ -321,8 +329,8 @@ sections:
       #   - "Wednesday 09:00 to 10:00"
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: "40.626709"
-        longitude: "-78.651123"
+        latitude: "40.444230"
+        longitude: "-79.943370"
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
