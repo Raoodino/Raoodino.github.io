@@ -40,7 +40,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master's in Information Systems Management
+    - course: Master in Information Systems Management
       institution: Carnegie Mellon University
       year: 2024
     - course: Bachelor in Management Science, Minor in English Literature
@@ -55,17 +55,27 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
-        description: ""
-        percent: 80
+      - name: Data Analysis & Data Visualization
+        description: "python, pyspark, tableau, powerBI"
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Software Development & Software Design
         description: ""
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Quantitative Analysis & Econometrics
+        description: ""
+        percent: 40
+        icon: database
+        icon_pack: fas
+      - name: Machine Learning & AI
+        description: ""
+        percent: 40
+        icon: database
+        icon_pack: fas
+      - name: Blockchain Development & Deployment
         description: ""
         percent: 40
         icon: database
@@ -77,17 +87,27 @@ skills:
       - name: Classical Music
         description: ""
         percent: 100
-        icon: person-hiking
+        icon: music
+        icon_pack: fas
+      - name: PingPong
+        description: ""
+        percent: 100
+        icon: table-tennis-paddle-ball
         icon_pack: fas
       - name: KPOP
         description: ""
         percent: 100
-        icon: cat
+        icon: fire
         icon_pack: fas
       - name: Photography
         description: ""
         percent: 100
         icon: camera-retro
+        icon_pack: fas
+      - name: Cooking
+        description: ""
+        percent: 100
+        icon: kitchen-set
         icon_pack: fas
 
 # Social/Academic Networking
