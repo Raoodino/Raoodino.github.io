@@ -65,21 +65,21 @@ sections:
         - title: Teaching Assistant
           company: Distributed Systems In ISM
           company_url: "https://api.heinz.cmu.edu/courses_api/course_detail/95-702/"
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Pittsburgh
           date_start: "2024-01-01"
           date_end: ""
         - title: Teaching Assistant
           company: Database Management
           company_url: "https://api.heinz.cmu.edu/courses_api/course_detail/95-703/"
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Pittsburgh
           date_start: "2023-09-01"
           date_end: "2023-12-11"
         - title: Teacher
           company: Teach For China
           company_url: "https://chinadevelopmentbrief.org/ngos/teach-for-china/"
-          company_logo: org-gc
+          # company_logo: org-gc
           location: China
           date_start: "2019-01-01"
           date_end: "2019-08-11"
@@ -258,11 +258,12 @@ sections:
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
   - block: markdown
+    id: photo
     content:
       title: Photography
-      subtitle: ""
+      subtitle: "Scenic View in Pittsburgh"
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="pittsburgh" >}}
     design:
       columns: "1"
   # - block: collection

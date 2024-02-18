@@ -144,5 +144,11 @@ social:
 highlight_name: true
 ---
 
-I am Jeri, a master student at CMU. My research interests include the intersection of information technology and education, innovation, public policy, healthcare. Currently, I am conducting research about Social Good and Learning Analytics at Heinz College.
+I am Jeri, a master student at CMU. My research interests include the intersection of information technology and education, innovation, public policy, healthcare.
+
+The transition from aspiring software engineer to a researcher interested in
+education was sparked by the integration of AI tools like ChatGPT in our coursework. This shift was further solidified by my role as a teaching assistant for core Information Systems courses at CMU, prompting me to delve deeper into how computer science education impacts students from non CS backgrounds and the transformative role of AI tools in education.
+
+Currently, I am conducting research about Social Good and Learning Analytics at Heinz College.
+
 {style="text-align: justify;"}
