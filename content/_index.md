@@ -65,14 +65,14 @@ sections:
         - title: Teaching Assistant
           company: Distributed Systems In ISM
           company_url: "https://api.heinz.cmu.edu/courses_api/course_detail/95-702/"
-          # company_logo: org-gc
+          company_logo: cmu
           location: Pittsburgh
           date_start: "2024-01-01"
           date_end: ""
         - title: Teaching Assistant
           company: Database Management
           company_url: "https://api.heinz.cmu.edu/courses_api/course_detail/95-703/"
-          # company_logo: org-gc
+          company_logo: cmu
           location: Pittsburgh
           date_start: "2023-09-01"
           date_end: "2023-12-11"
@@ -102,7 +102,7 @@ sections:
         - title: Software Engineer Intern
           company: Travelwits
           company_url: "https://www.travelwits.com/"
-          company_logo: org-gc
+          company_logo: travelwits
           location: Pittsburgh, PA
           date_start: "2023-05-12"
           date_end: "2023-08-11"
@@ -114,7 +114,7 @@ sections:
         - title: Software Engineer Intern
           company: Opera
           company_url: "https://www.opera.com/"
-          company_logo: org-x
+          company_logo: opera
           location: Beijing, China
           date_start: "2022-08-11"
           date_end: "2022-11-27"
@@ -126,7 +126,7 @@ sections:
         - title: Consultant Intern - Data Management
           company: IBM
           company_url: "https://www.ibm.com/consulting?utm_content=SRCWW&p1=Search&p4=43700050478421002&p5=e&gad_source=1&gclid=Cj0KCQiAz8GuBhCxARIsAOpzk8w0oMioiOh6n2LkMLjR4yF6n71ARmOzqeeai3T6_iAkFq6MEDgNd4EaAtMnEALw_wcB&gclsrc=aw.ds"
-          company_logo: org-x
+          company_logo: ibm
           location: Beijing, China
           date_start: "2022-03-01"
           date_end: "2022-06-01"
@@ -138,7 +138,7 @@ sections:
         - title: Product Intern
           company: Kuaishou Technology
           company_url: "https://www.kuaishou.com/en"
-          company_logo: org-x
+          company_logo: kuaishou
           location: Beijing, China
           date_start: "2021-10-16"
           date_end: "2022-01-12"
@@ -150,7 +150,7 @@ sections:
         - title: Consultant Intern - Global Business System Management
           company: Volkswagen Group
           company_url: "https://volkswagengroupchina.com.cn/en/volkswagengroupchina"
-          company_logo: org-x
+          company_logo: vw
           location: Beijing, China
           date_start: "2021-05-01"
           date_end: "2021-10-15"
