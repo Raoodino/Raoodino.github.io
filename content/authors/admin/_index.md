@@ -23,7 +23,7 @@ role: Preparing For 2025 Fall PHD Programs
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Carnegie Mellon University
-    url: https://www.heinz.cmu.edu/
+    url: https://www.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the intersection of technology and education, public policy, healthcare, economics.
@@ -153,7 +153,7 @@ highlight_name: true
 ---
 
 <div style="font-family: 'Verdana', sans-serif; text-align: justify;">
-    <p>I am Jeri, a master student at Carnegie Mellon University, Heinz College, will graduate in May 2024. I am interested in exploring the intersection of information  technology and education, digital economy, public policy, and healthcare.</p>
+    <p>I am Jeri, a master student at Carnegie Mellon University, <a href="https://www.heinz.cmu.edu/">Heinz College</a>, will graduate in May 2024. I am interested in exploring the intersection of information  technology and education, digital economy, public policy, and healthcare.</p>
     <p>I graduated from <a href = "https://english.bnu.edu.cn/" >Beijing Normal University （北京师范大学）</a> in 2022. It's among #36 in US News Global Best Universities for<a href = "https://www.usnews.com/education/best-global-universities/china/education-educational-research" > Education and Educational Research</a>. I major in Management Science, took core courses like Stochastic Process, Operation Research, System Engineering, Time Series Analysis.It was a joint program between the School of Systems Science and the School of Government, so I also learned a lot about finance and management. I minor in English Literature, and my favorite course taken was Creative Writing, instructed by <a href = "https://ecs.princeton.edu/people/adeline-heck/">Dr.Adeline Heck </a>. </p>
     <p>The transition from aspiring software engineer to a researcher was sparked by the integration of AI tools like ChatGPT in our coursework. This shift was further solidified by my role as a teaching assistant for core Information Systems courses, prompting me to delve deeper into the role of AI  in education and how computer science education impacts students from non-CS backgrounds. Many of my friends are now active teachers in different schools in different parts of China, and I was a former Teach For China teacher, so it was destiny for me to carry out pedagogy-related research.</p>
     <p>Currently, I am seeking research opportunities about AI and education, computer science education, and learning analytics.</p>
