@@ -18,7 +18,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Applying For 2025 Fall PHD Programs
+role: Preparing For 2025 Fall PHD Programs
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,7 +65,7 @@ skills:
         percent: 100
         icon: uncharted
         icon_pack: fas
-      - name: Quantitative Analysis & Econometrics
+      - name: Time Series Analysis & Econometrics
         description: "R, Eviews, Stata"
         percent: 80
         icon: calculator
@@ -80,19 +80,24 @@ skills:
         percent: 60
         icon: hive
         icon_pack: fas
+      - name: Financial Analysis & Modelling
+        description: "MATLAB"
+        percent: 60
+        icon: money-bill
+        icon_pack: fas
   - name: Non-Technical
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
       - name: Classical Music Fan
-        description: "Rachmaninoff"
+        description: "Rachmaninoff, Bach, Haydn"
         percent: 100
         icon: music
         icon_pack: fas
       - name: Piano
         description: "Since age 4"
         percent: 100
-        icon: piano
+        icon: microphone-lines
         icon_pack: fas
       - name: PingPong
         description: "Since age 5"
@@ -148,8 +153,9 @@ highlight_name: true
 ---
 
 <div style="font-family: 'Verdana', sans-serif; text-align: justify;">
-    <p>I am Jeri, a master student at CMU. I am interested in the intersection of information technology and education, digital economy, public policy, and healthcare.</p>
-    <p>The transition from aspiring software engineer to a researcher was sparked by the integration of AI tools like ChatGPT in our coursework. This shift was further solidified by my role as a teaching assistant for core Information Systems courses, prompting me to delve deeper into the role of AI tools in education and how computer science education impacts students from non-CS backgrounds.</p>
-    <p>Currently, I am conducting research about Social Good and Learning Analytics at Heinz College.</p>
-    <p>My avatar was taken in December 2023 in Airport Mesa, Sedona, Arizona, by my friend <a href="https://stat.illinois.edu/directory/profile/cw80" style="text-decoration: none; color: green;">Chenyang Wang</a></p>
+    <p>I am Jeri, a master student at Carnegie Mellon University, Heinz College, will graduate in May 2024. I am interested in exploring the intersection of information  technology and education, digital economy, public policy, and healthcare.</p>
+    <p>I graduated from Beijing Normal University （北京师范大学） in 2022. I majored in Management Science, took core courses like Stochastic Process, Operation Research, System Engineering, Time Series Analysis.It was a joint program between the School of Systems Science and the School of Government, so I also learned a lot about finance and management. I minor in English Literature, and my favorite course taken was Creative Writing, instructed by <a href = "https://ecs.princeton.edu/people/adeline-heck/" color: green >Dr.Adeline Heck </a>. </p>
+    <p>The transition from aspiring software engineer to a researcher was sparked by the integration of AI tools like ChatGPT in our coursework. This shift was further solidified by my role as a teaching assistant for core Information Systems courses, prompting me to delve deeper into the role of AI  in education and how computer science education impacts students from non-CS backgrounds.</p>
+    <p>Currently, I am seeking research opportunities about AI and education, computer science education, and learning analytics.</p>
+    <p>My avatar was taken in December 2023 in Airport Mesa, Sedona, Arizona, by my friend <a href="https://stat.illinois.edu/directory/profile/cw80" style="text-decoration: none; color: green;">Chenyang Wang</a>.</p>
 </div>

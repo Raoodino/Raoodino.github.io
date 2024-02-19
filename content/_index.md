@@ -89,6 +89,33 @@ sections:
       columns: "1"
   - block: experience
     content:
+      title: Research Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Research Assistant
+          company: Beijing Normal University
+          company_url: "https://english.bnu.edu.cn/"
+          company_logo: bnu
+          location: Beijing
+          date_start: "2019-06-01"
+          date_end: "2022-04-01"
+          description: |2-
+              Research Topic: Data Envelopment Analysis(DEA), Technology Innovation, R&D, Economics
+
+              * Evaluation of Innovation Efficiency of Manufacturing Industry in the Jing-Jin-ji Urban Agglomeration Based on Network DEA Model
+              * Study on R & D Mechanism of Beijing Industrial Enterprises Based on Dynamic DEA Model
+              * Attended The Sixteenth Annual Conference on Science and Technology Policy and Management in China
+    design:
+      columns: "1"
+  - block: experience
+    content:
       title: Industry Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
