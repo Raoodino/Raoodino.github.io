@@ -296,8 +296,6 @@ sections:
         ## Scenic View in Sedona
         {{< gallery album="sedona" >}}
 
-        ## Scenic View in Ithaca
-        {{< gallery album="ithaca" >}}
     design:
       columns: "1"
 
