@@ -290,9 +290,20 @@ sections:
       title: Photography
       subtitle: "Scenic View in Pittsburgh"
       text: |-
+        ## Scenic View in Pittsburgh
         {{< gallery album="pittsburgh" >}}
+
+        ## Scenic View in Sedona
+        {{< gallery album="sedona" >}}
+
+        ## Scenic View in Ithaca
+        {{< gallery album="Ithaca" >}}
+
+      # text: |-
+      #   {{< gallery album="pittsburgh" >}}
     design:
       columns: "1"
+
   # - block: collection
   #   id: featured
   #   content:

@@ -47,7 +47,7 @@ education:
       institution: Beijing Normal University
       year: 2022
     - course: Exchange Student
-      institution: University of Manchester
+      institution: The University of Manchester
       year: 2021
 
 # Skills
