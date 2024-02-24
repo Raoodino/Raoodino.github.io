@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jeri Rao 饶家瑞
+title: Jeri Rao
 
 # Name pronunciation (optional)
 # name_pronunciation: ráo jiā ruì
@@ -153,9 +153,13 @@ highlight_name: true
 ---
 
 <div style="font-family: 'Verdana', sans-serif; text-align: justify;">
-    <p>I am Jeri, a master student at Carnegie Mellon University, <a href="https://www.heinz.cmu.edu/">Heinz College</a>, will graduate in May 2024. I am interested in exploring the intersection of information  technology and education, digital economy, public policy, and healthcare.</p>
-    <p>I graduated from <a href = "https://english.bnu.edu.cn/" >Beijing Normal University （北京师范大学）</a> in 2022. It's among #36 in US News Global Best Universities for<a href = "https://www.usnews.com/education/best-global-universities/china/education-educational-research" > Education and Educational Research</a>. I major in Management Science, took core courses like Stochastic Process, Operation Research, System Engineering, Time Series Analysis.It was a joint program between the School of Systems Science and the School of Government, so I also learned a lot about finance and management. I minor in English Literature, and my favorite course taken was Creative Writing, instructed by <a href = "https://ecs.princeton.edu/people/adeline-heck/">Dr.Adeline Heck </a>. </p>
-    <p>The transition from aspiring software engineer to a researcher was sparked by the integration of AI tools like ChatGPT in our coursework. This shift was further solidified by my role as a teaching assistant for core Information Systems courses, prompting me to delve deeper into the role of AI  in education and how computer science education impacts students from non-CS backgrounds. Many of my friends are now active teachers in different schools in different parts of China, and I was a former Teach For China teacher, so it was destiny for me to carry out pedagogy-related research.</p>
-    <p>Currently, I am seeking research opportunities about AI and education, computer science education, and learning analytics.</p>
+    <p>I am Jeri, my Chinese Name is 饶家瑞, with pronunciation: <span style="color: #FF5733;">ráo jiā ruì</span>. I am currently pursuing a Master of Information Systems Management at <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University, Heinz College</a>, with an expected graduation in May 2024. My academic journey is enriched by courses in programming, digital business, and data analysis. As a socially conscious individual, I am deeply fascinated by the potential synergy between information technology and critical sectors like education, digital economy, public policy, and healthcare.</p>
+    <p>I earned my undergraduate degree from <a href="https://english.bnu.edu.cn/">Beijing Normal University （北京师范大学）</a> in 2022, a prestigious institution ranked <span style="color: #FF5733;">#36 in US News Global Best Universities</span> for <a href="https://www.usnews.com/education/best-global-universities/china/education-educational-research">Education and Educational Research</a>. My major in <span style="color: #4CAF50;">Management Science</span> included core courses such as <span style="color: #FFC107;">Stochastic Process</span>, <span style="color: #FFC107;">Operation Research</span>, and <span style="color: #FFC107;">Time Series Analysis</span>, part of a joint program between the <span style="color: #03A9F4;">School of Systems Science</span> and the <span style="color: #03A9F4;">School of Government</span>. This unique combination provided me with a comprehensive understanding of finance and management. I also minored in <span style="color: #9C27B0;">English Literature</span>, with <span style="color: #E91E63;">Creative Writing</span>, taught by <a href="https://ecs.princeton.edu/people/adeline-heck/">Dr. Adeline Heck</a>, being my favorite course.</p>
+    <br>
+    <p>The transition from an aspiring software engineer to a researcher was ignited by the integration of AI tools, such as ChatGPT, into our coursework. My engagement deepened through my role as a teaching assistant for Database Management and Distributed Systems courses at CMU, encouraging me to explore the impact of AI in education and the influence of computer science education on students from non-CS backgrounds. Having friends who are educators across China and my experience as a Teach For China volunteer have destined me to pursue pedagogy-related research passionately.</p>
+    <br>
+    <p>Currently, I am actively pursuing research opportunities in AI and education, computer science education, as well as learning science and technology. With a wealth of industry and teaching experiences under my belt, coupled with a robust academic foundation and technical proficiency, I am confident in my ability to contribute effectively to your research team.</p>
+    <br>
     <p>My avatar was taken in December 2023 in Airport Mesa, Sedona, Arizona, by my friend <a href="https://stat.illinois.edu/directory/profile/cw80" style="text-decoration: none; color: green;">Chenyang Wang</a>.</p>
+
 </div>

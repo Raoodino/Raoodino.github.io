@@ -301,7 +301,7 @@ sections:
 
   # - block: collection
   #   id: featured
-  #   content:
+  #   content:yuihuii
   #     title: Featured Publications
   #     filters:
   #       folders:
