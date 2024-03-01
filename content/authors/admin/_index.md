@@ -159,7 +159,7 @@ highlight_name: true
     <br>
     <p>The transition from an aspiring <span style="color: #21CE9D;">software engineer</span> to a <span style="color: #21CE9D;">researcher</span> was ignited by the integration of AI tools, such as ChatGPT, into our coursework. My engagement deepened through my role as a teaching assistant for graduate courses at CMU, encouraging me to explore the impact of AI in education. Also, I am interested in how computer science education influence students from non-CS backgrounds like me. Having friends who are educators across China and my experience as a Teach For China volunteer have destined me to pursue pedagogy-related research passionately.</p>
     <br>
-    <p>Currently, I am conducting research on <span style="color: #E98EBB;">AI and education</span> under the guidance of <a href="https://sites.google.com/site/jiognhaolin/home?authuser=0">Dr.Jionghao Lin</a>, based on CMU's <a href="https://www.tutors.plus/en/">PLUS</a>program. 
+    <p>Currently, I am conducting research on <span style="color: #E98EBB;">AI and education</span> under the guidance of <a href="https://sites.google.com/site/jiognhaolin/home?authuser=0">Dr.Jionghao Lin</a>, based on CMU's <a href="https://www.tutors.plus/en/">PLUS</a> program.</p>
     <br>
     I am pursuing doctoral degree opportunities in <span style="color: #E98EBB;">AI and education</span>,  <span style="color: #E9BC8E;">learning science and technology</span> and <span style="color: #8EE98F;">computer science education</span>. With a wealth of industry and teaching experiences under my belt, coupled with a robust academic foundation and technical proficiency, I am confident in my ability to contribute effectively to your research team.</p>
     <br>
