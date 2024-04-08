@@ -33,9 +33,8 @@ interests:
   - Education & Learning Science
   - Computer Science Education
   - Artificial Intelligence
-  - Information Systems
+  - Information Technology and Innovation
   - Management Science and Operational Research
-  - Technology and Innovation
 
 # Education to show in About widget
 education:
@@ -138,9 +137,9 @@ social:
     icon_pack: fab
     link: https://www.instagram.com/pterosaurrrrao/
 
-  - icon: xiaohongshu.svg
-    # icon_pack: fab
-    link: https://www.xiaohongshu.com/user/profile/5bfd258d44363b07f24546e7
+  # - icon: xiaohongshu.svg
+  #   # icon_pack: fab
+  #   link: https://www.xiaohongshu.com/user/profile/5bfd258d44363b07f24546e7
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -153,13 +152,12 @@ highlight_name: true
 ---
 
 <div style="font-family: 'Verdana', sans-serif; text-align: justify;">
-    <p>I am Jeri, my Chinese Name is 饶家瑞, with pronunciation: <span style="color: #EAB676;">ráo jiā ruì</span>. I am currently pursuing a Master of <span style="color: #DB6987;">Information Systems Management</span> at <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University, Heinz College</a>, a prestigious college ranked <span style="color: #E5E448;"> #1 in Information and Technology Management</span>, with an expected graduation in May 2024. Here, my academic journey is enriched by courses in programming, digital business, and data analysis. As a socially conscious individual, I am deeply fascinated by the potential synergy between information technology and critical sectors like education, digital economy, public policy, and healthcare. I had the honor to work on research in machine learning and social good topics under the guidance of professor <a href="https://sites.google.com/view/woodyzhu">Woody Zhu</a>. </p>
+    <p>I am Jeri, my Chinese Name is 饶家瑞, with pronunciation: <span style="color: #EAB676;">ráo jiā ruì</span>. I am currently pursuing a Master of <span style="color: #DB6987;">Information Systems Management</span> at <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University, Heinz College</a>, a prestigious college ranked <span style="color: #E5E448;"> #1 in Information and Technology Management</span>.</p>
+    <p>Currently, I am conducting research on <span style="color: #E98EBB;">the application of AI in eduction</span> focus on LLM and recommendation systems, under the guidance of <a href="https://sites.google.com/site/jiognhaolin/home?authuser=0">Dr.Jionghao Lin</a> from CMU's renowned Human-Center Interaction Institute, to enhance the development of <a href="https://www.tutors.plus/en/">PLUS</a> </p>
     <br>
-    <p>The transition from an aspiring <span style="color: #21CE9D;">software engineer</span> to a <span style="color: #21CE9D;">researcher</span> was ignited by the integration of AI tools, such as ChatGPT, into our coursework. My engagement deepened through my role as a teaching assistant for graduate courses at CMU, encouraging me to explore the impact of AI in education. Also, I am interested in how computer science education influence students from non-CS backgrounds like me. Having friends who are educators across China and my experience as a Teach For China volunteer have destined me to pursue pedagogy-related research passionately.</p>
+    <p>The transition from an aspiring <span style="color: #21CE9D;">software engineer</span> to a <span style="color: #21CE9D;">researcher</span> was ignited by the integration of AI tools, such as ChatGPT, into our coursework. My engagement deepened through my role as a teaching assistant for graduate courses at CMU, encouraging me to explore the impact of AI in education. Also, I am interested in how computer science education influence students from non-CS backgrounds like me.</p>
     <br>
-    <p>Currently, I am conducting research on <span style="color: #E98EBB;">AI and education</span> focus on peer tutor training and recommendation systems, under the guidance of <a href="https://sites.google.com/site/jiognhaolin/home?authuser=0">Dr.Jionghao Lin</a> from CMU's renowned Human-Center Interaction department, based on CMU's <a href="https://www.tutors.plus/en/">PLUS</a> program</p>
-    <br>
-    <p>I earned my undergraduate degree in <span style="color: #DB6987;">Management Science - Financial Engineering Track</span>  from <a href="https://english.bnu.edu.cn/">Beijing Normal University （北京师范大学）</a> in 2022, a prestigious institution ranked <span style="color: #FF5733;">#36 in US News Global Best Universities</span> for <a href="https://www.usnews.com/education/best-global-universities/china/education-educational-research">Education and Educational Research</a>. I minored in <span style="color: #DB8469;">English Literature</span>, with <span style="color: #4897E5;">Creative Writing</span>, taught by <a href="https://ecs.princeton.edu/people/adeline-heck/">Dr. Adeline Heck</a>, being my favorite course.</p>
+    <p>I earned my undergraduate degree in <span style="color: #DB6987;">Management Science</span>  from <a href="https://english.bnu.edu.cn/">Beijing Normal University （北京师范大学）</a> in 2022, a prestigious institution ranked <span style="color: #FF5733;">#36 in US News Global Best Universities</span> for <a href="https://www.usnews.com/education/best-global-universities/china/education-educational-research">Education and Educational Research</a>. I minored in <span style="color: #DB8469;">English Literature</span>, with <span style="color: #4897E5;">Creative Writing</span>, taught by <a href="https://ecs.princeton.edu/people/adeline-heck/">Dr. Adeline Heck</a>, being my favorite course.Here at CMU, my academic journey is enriched by courses in programming, digital business, and data analysis. As a socially conscious individual, I am deeply fascinated by the potential synergy between information technology and critical sectors like education, digital economy, public policy, and healthcare. I also had the honor to work on research in machine learning and social good topics under the guidance of professor <a href="https://sites.google.com/view/woodyzhu">Woody Zhu</a>.</p>
     <br>
      <p>I am pursuing 2025 Fall doctoral degree opportunities in <span style="color: #E98EBB;">AI and education</span>,  <span style="color: #E9BC8E;">learning science and technology</span> and <span style="color: #8EE98F;">computer science education</span>. With a wealth of industry and teaching experiences under my belt, coupled with a robust academic foundation and technical proficiency, I am confident in my ability to contribute effectively to your research team.</p>
     <br>
