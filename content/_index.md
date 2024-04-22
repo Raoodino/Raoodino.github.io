@@ -50,7 +50,8 @@ sections:
       username: admin
     design:
       columns: "1"
-    - block: experience
+      
+  - block: experience
     content:
       title: Research Experience
       # Date format for experience
@@ -90,6 +91,7 @@ sections:
               * Attended The Sixteenth Annual Conference on Science and Technology Policy and Management in China
     design:
       columns: "1"
+
   - block: experience
     content:
       title: Teaching Experience
