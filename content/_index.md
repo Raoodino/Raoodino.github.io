@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: "1"
-      
+
   - block: experience
     content:
       title: Research Experience
@@ -63,7 +63,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       - title: Research Assistant
+        - title: Research Assistant
           company: Carnegie Mellon University
           company_url: "https://hcii.cmu.edu/"
           company_logo: hcii
