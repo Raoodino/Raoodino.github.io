@@ -64,7 +64,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-          company: Carnegie Mellon University
+          company: HCI Institute, Carnegie Mellon University
           company_url: "https://hcii.cmu.edu/"
           company_logo: hcii
           location: Pittsburgh
@@ -104,6 +104,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Teaching Assistant
+          company: Developing Blockchain Use Cases
+          company_url: "https://www.cylab.cmu.edu/education/course-list/developing-blockchain-use-cases.html"
+          company_logo: cmu
+          location: Pittsburgh
+          date_start: "2024-03-01"
+          date_end: ""
         - title: Teaching Assistant
           company: Distributed Systems In ISM
           company_url: "https://api.heinz.cmu.edu/courses_api/course_detail/95-702/"
