@@ -152,7 +152,7 @@ social:
 highlight_name: true
 ---
 
-<meta name="google-site-verification" content="RWaTdhg2CWa_gU-cxFq4okwvH61UIMQhNXHqBDht5yQ" />
+<!-- <meta name="google-site-verification" content="RWaTdhg2CWa_gU-cxFq4okwvH61UIMQhNXHqBDht5yQ" /> -->
 <div style="font-family: 'Verdana', sans-serif; text-align: justify;">
     <p>I am Jeri, my Chinese Name is 饶家瑞, with pronunciation: <span style="color: #EAB676;">ráo jiā ruì</span>. I am currently pursuing a Master of <span style="color: #DB6987;">Information Systems Management</span> at <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University, Heinz College</a>, a prestigious college ranked <span style="color: #E5E448;"> #1 </span> in Information and Technology Management.</p>
     <p>Currently, I am conducting research on <span style="color: #E98EBB;">AI in Education</span> focus on how Large Language Models can revolutionize learning outcomes, under the guidance of <a href="https://sites.google.com/site/jiognhaolin/home?authuser=0">Dr.Jionghao Lin</a> in <a href="https://hcii.cmu.edu/">Human-Computer Interaction Institute</a>.</p>

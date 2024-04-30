@@ -22,12 +22,12 @@ marketing:
     description: 'Jeri Rao Personal Academic Website.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-99EN94HG0J'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'google6dc37ab18fb30e78.html'
     baidu: ''
 
 # Site header
