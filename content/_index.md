@@ -150,6 +150,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Software Engineer Intern
+          company: Amazon
+          company_url: "https://www.aboutamazon.com/"
+          company_logo: amazon
+          location: Seattle, WA
+          date_start: "2024-06-03"
+          date_end: "2024-08-23"
+          description: |2-
+              Responsibilities include:
+
+              * Develop LLM Benchmark evaluation tools for Amazon AGI Science team
+              * Working on design tokenizers for large dataset loading
+        - title: Software Engineer Intern
           company: Travelwits
           company_url: "https://www.travelwits.com/"
           company_logo: travelwits
